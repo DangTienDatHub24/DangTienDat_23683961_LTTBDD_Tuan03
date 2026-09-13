@@ -21,7 +21,7 @@ export default function App() {
 
  
 
-  const handlePressBook = (id: number) => { 
+    const handlePressBook = (id: number) => { 
 
     setCartCount((c) => c + 1); 
 

@@ -9,7 +9,7 @@ export interface Book {
   cover: string;
   discountPercent?: number; // có giá trị -> Giờ 3 vẽ badge "-x%"
   isNew?: boolean; // true -> Giờ 3 vẽ badge "Mới" thay vì badge giảm giá
-  description: string; // dùng cho Giờ 4 (màn Chi tiết, đoạn mô tả dài cần cuộn)
+    description: string; // dùng cho Giờ 4 (màn Chi tiết, đoạn mô tả dài cần cuộn)
 }
 
 export const CATEGORIES: string[] = [
