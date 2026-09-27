@@ -1,7 +1,4 @@
-// GIỜ 3 — Bài tập 1: Badge giảm giá / nhãn "Mới" nổi trên ảnh bìa
-// Kỹ thuật: position 'absolute' của badge NEO theo containing block là View cha
-// (View bọc ảnh) — View cha đó phải có position 'relative' thì top/left mới có
-// điểm tựa đúng, chứ không phải theo toàn màn hình.
+
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 

@@ -1,6 +1,4 @@
-// GIỜ 3 — Bài tập 2: Nút giỏ hàng nổi (Floating Cart Button)
-// Kỹ thuật: containing block LỒNG NHAU — số lượng neo theo nút tròn,
-// còn nút tròn neo theo toàn màn hình (2 tầng position:'absolute' khác nhau).
+
 import React from "react";
 import { View, Text, Pressable, StyleSheet } from "react-native";
 

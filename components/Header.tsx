@@ -5,8 +5,7 @@ import { View, Text, StyleSheet } from "react-native";
 
 export function Header() {
   return (
-    // Container header: xếp NGANG (row), 2 đầu cách xa nhau (space-between),
-    // căn GIỮA theo chiều dọc (center) — đúng 3 thuộc tính yêu cầu của bài tập.
+
     <View style={styles.header}>
       <Text style={styles.logo}>📚 BookStore</Text>
 

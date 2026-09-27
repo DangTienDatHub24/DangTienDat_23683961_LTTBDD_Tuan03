@@ -1,6 +1,4 @@
-// GIỜ 1 — Bài tập 2: Thẻ sách (Book Card) đơn, dạng HÀNG (row)
-// Kỹ thuật: ảnh cố định bên trái + cột thông tin flex:1 bên phải, giá neo đáy cột
-// bằng justifyContent 'space-between' trên trục dọc.
+
 import React from "react";
 import { View, Text, Image, StyleSheet } from "react-native";
 import { Book } from "../data";
